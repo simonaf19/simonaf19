@@ -5,8 +5,11 @@
 
 ### 🛠️ Skills
 **Languages:** Java, Python, HTML, CSS, JavaScript, TypeScript, SQL, C, OCaml, Bash, C# 
+
 **Tools:** Git, LaTeX, VS Code, Sublime Text, IntelliJ IDEA, Unity
+
 **Design tools:** Canva, Figma, Inkscape
+
 **Frameworks:** React, Node.js, Express, Bootstrap
 
 ### 🌱 Goals
