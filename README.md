@@ -15,7 +15,7 @@ I’m particularly interested in Extended Reality (XR), exploring how emerging t
 Passionate about continuous learning, I’m dedicated to expanding my technical and creative skill set, experimenting with innovative ideas, and applying them to real-world challenges.
 Always eager to learn, collaborate, and create something impactful!
 
-### 🌱 Beyond Development
+### ✨ Beyond Development
 Beyond coding, I’m passionate about education and making technology approachable.
 I’ve led programming workshops in Python using MicroBit for high school students at the Computer History Museum in Ljubljana, and I’m currently teaching Scratch and AppInventor to elementary school students.
 These experiences have strengthened my ability to communicate technical concepts clearly, adapt to different learning styles, and inspire curiosity about technology.
