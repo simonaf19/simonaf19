@@ -14,17 +14,17 @@
 
 ### 🧩 Projects  
 
--**[More or Less, Less is More](https://github.com/simonaf19/java-game):** Java-based logic game   
+- **[More or Less, Less is More](https://github.com/simonaf19/java-game):** Java-based logic game   
 
--**[Assembly Game](https://github.com/simonaf19/assembly-game):** Game built in Assembly language
+- **[Assembly Game](https://github.com/simonaf19/assembly-game):** Game built in Assembly language
 
--**[GroceryNest](https://github.com/simonaf19/groceryNest):** Full-stack webpage, enabling users to create and share shopping lists, submit orders, and track deliveries 
+- **[GroceryNest](https://github.com/simonaf19/groceryNest):** Full-stack webpage, enabling users to create and share shopping lists, submit orders, and track deliveries 
 
--**[2Park](https://github.com/simonaf19/hackaton):** Real-time map-based app for reserving parking spots using React Leaflet. Developed as part of 4 person team
+- **[2Park](https://github.com/simonaf19/hackaton):** Real-time map-based app for reserving parking spots using React Leaflet. Developed as part of 4 person team
 
--**[KoperIterum](https://github.com/simonaf19/ar-project):** An Augmented Reality project that transforms exploring Koper’s old town into an immersive, story-driven experience. Developed as part of 3 person team
+- **[KoperIterum](https://github.com/simonaf19/ar-project):** An Augmented Reality project that transforms exploring Koper’s old town into an immersive, story-driven experience. Developed as part of 3 person team
 
--**[FitConnect](https://github.com/simonaf19/FitConnect):** High-fidelity prototype for a mobile app that enables users to exercise online. Developed as part of 4 person team
+- **[FitConnect](https://github.com/simonaf19/FitConnect):** High-fidelity prototype for a mobile app that enables users to exercise online. Developed as part of 4 person team
 
 ### 🌱 Goals
 Currently focused on improving my full-stack development skills and building projects that solve real-world problems.
