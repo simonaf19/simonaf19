@@ -25,6 +25,8 @@
 - **[KoperIterum](https://github.com/simonaf19/ar-project):** An Augmented Reality project that transforms exploring Koper’s old town into an immersive, story-driven experience. Developed as part of 3 person team
 
 - **[FitConnect](https://github.com/simonaf19/FitConnect):** High-fidelity prototype for a mobile app that enables users to exercise online. Developed as part of 4 person team
+  
+- **[Candidate Job Placement Prediction Project](https://github.com/simonaf19/Candidate-Job-Placement-Prediction):** Machine learning project for predicting job placement outcomes using academic, professional, and interview data. Compared Naive Bayes, Logistic Regression, and an Artificial Neural Network to evaluate classification performance.
 
 ### 🌱 Goals
 Currently focused on improving my full-stack development skills and building projects that solve real-world problems.
