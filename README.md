@@ -6,9 +6,9 @@
 ### 🛠️ Skills
 **Languages:** Java, Python, HTML, CSS, JavaScript, TypeScript, SQL, C, OCaml, Bash, C# 
 
-**Tools:** Git, LaTeX, VS Code, Sublime Text, IntelliJ IDEA, Unity
+**Tools:** Git, LaTeX, VS Code, Sublime Text, IntelliJ IDEA, Unity, Kaggle 
 
-**Design tools:** Canva, Figma, Inkscape
+**Design tools:** Canva, Figma, Inkscape, Gimp, Kdenlive
 
 **Frameworks:** React, Node.js, Express, Bootstrap
 
